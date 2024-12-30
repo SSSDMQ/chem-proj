@@ -1,6 +1,6 @@
 import streamlit as st
 st.title("Thermochemistry Solver")
-st.subheader('Developed by [NAME]', divider=("red"))
+st.subheader('Developed by Saud Al-Qahtani', divider=("red"))
 
 def page_1():
     st.header("Calculate the total energy of a thermochemical reaction", divider=("grey"))
